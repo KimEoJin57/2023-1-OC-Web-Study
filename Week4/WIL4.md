@@ -14,7 +14,7 @@
 ##timotht burners lee, 그는 누구인가?   
 ---
   
-  
+    
     -HTML(Hyper Text Markup Language) > web  
     -HTTP > //붙이지 말걸!! 농담도 함  
     -WWW > World Wide Web  
@@ -67,7 +67,7 @@
     <table> 태그는 HTML문서에서 표를 만드는 태그이다.
         -표의 행 : <tr>
         -표의 열 : <td>
-    <tr>안에<td>를 넣어서 만든다고 이해하자..!
+    <tr>안에<td>를 넣어서 만든다고 이해하자...!
     
 ###2.표의 구성(심화)
     -제목은 <thead>,<tbody>,<th>태그를 사용하여 구현한다.
